@@ -1,7 +1,7 @@
 /**
 *	@file LinkedList.h
-*	@author 
-*	@date 
+*	@author Chetan Hiremath
+*	@date 02/03/22
 *	@brief A header file for templated LinkedList class
 */
 
